@@ -39,5 +39,4 @@ This notebook is intended as a demonstration of applied data science skills, inc
 
 ## Authors
 
-**James Thompson**
-**Georgia Thomas**  
+**James Thompson and Georgia Thomas**  
