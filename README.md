@@ -2,7 +2,7 @@
 
 This project explores demographic and socioeconomic factors associated with median household income in the United States using publicly available U.S. Census data.
 
-The analysis focuses on cleaning raw census data, engineering interpretable features, and applying statistical and machine-learning models to understand which variables are most strongly related to income levels.
+The analysis focuses on cleaning raw census data, engineering interpretable features, and applying stats and machine learning models to understand which variables are most strongly related to income levels.
 
 ---
 
@@ -20,11 +20,11 @@ This notebook is intended as a demonstration of applied data science skills, inc
 
 ## Methods & Tools
 
-- **Python** (pandas, numpy, scikit-learn)
-- **API data ingestion** (U.S. Census API)
-- **Exploratory Data Analysis (EDA)**
-- **Regression models** (OLS, Ridge, Lasso)
-- **Clustering** (K-Means)
+- Python(pandas, numpy, scikit-learn)
+- API data ingestion (U.S. Census API)
+- Exploratory Data Analysis
+- Regression models (OLS, Ridge, Lasso)
+- Clustering (K-Means)
 
 ---
 
@@ -39,4 +39,4 @@ This notebook is intended as a demonstration of applied data science skills, inc
 
 ## Authors
 
-**James Thompson and Georgia Thomas**  
+James Thompson and Georgia Thomas
